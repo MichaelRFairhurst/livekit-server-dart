@@ -1,0 +1,12 @@
+name: livekit_server_dart
+description: >-
+  Dart implementation of the livekit server API (using twirl)
+homepage: https://github.com/MichaelRFairhurst/livekit-server-dart
+repository: https://github.com/MichaelRFairhurst/livekit-server-dart
+version: 0.0.1
+
+environment:
+  sdk: '>=2.10.0 <3.0.0'
+
+dependencies: {http: ^0.11.0, twirp_dart_core: ^1.0.0+1}
+
